@@ -90,7 +90,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="binary\MonoClicker.exe" />
     <Content Include="logo.ico" />
     <Content Include="monot.png" />
     <None Include="Resources\ダウンロード.png" />
