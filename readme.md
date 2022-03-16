@@ -6,5 +6,5 @@
 # Monotについて
 monochrome.が作っているブラウザです。<br>
 ロゴはMonotのGitHubから取らせていただきました。<br>
-SorakimeのTwitter<a href="https://twitter.com/Sorakime_">@Sorakime_</a><br>
+SorakimeさんのTwitter<a href="https://twitter.com/Sorakime_">@Sorakime_</a><br>
 MonotのGitHub<a href="https://github.com/Sorakime/monot">Sorakime/monot</a>
