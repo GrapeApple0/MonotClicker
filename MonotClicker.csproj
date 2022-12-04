@@ -92,6 +92,8 @@
   <ItemGroup>
     <Content Include="logo.ico" />
     <Content Include="monot.png" />
+    <None Include="Resources\monot.png" />
+    <None Include="Resources\logo-s.png" />
     <None Include="Resources\ダウンロード.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
